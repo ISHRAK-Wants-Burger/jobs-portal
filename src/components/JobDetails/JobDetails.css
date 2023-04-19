@@ -1,0 +1,28 @@
+.job-description p {
+    margin: 20px 0;
+    color: #757575;
+}
+
+.job-description p span {
+    color: black;
+}
+
+.job-details div h1 {
+    margin: 16px 0;
+    color: black;
+    border-bottom: 1px solid #757575;
+    padding-bottom: 20px;
+}
+
+.job-details div p {
+    color: #757575;
+}
+
+.job-details div p span {
+    color: black;
+    font-weight: bold;
+}
+
+.job-details-icon {
+    margin-right: 8px;
+}
